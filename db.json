@@ -1,9 +1,1480 @@
 {
-  "todos": [
+  "exercises": [
     {
       "id": 1,
-      "name": "Sleep",
-      "isDone": false
+      "name": "Assisted Chest Stretch",
+      "type": "Stretching",
+      "muscle": "Chest",
+      "mechanics": "Isolation",
+      "equipment": "Body Only",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b3.jpg",
+      "video": "http://player.vimeo.com/external/160305239.sd.mp4?s=e0dfec87ef30cf5bad1e3f4bd71db89ca2be9911&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) In this stretch you will need a partner behind you to assist. \n 2.) Start by sitting upright on the floor with your partner behind you, placing your hands behind your head and legs extended out in front of you with a slight knee bend. \n 3.) Have your partner hold your elbows, then try and pull your elbows from behind your head for about 15 to 30 seconds then release. \n 4.) Then afterward have your partner pull back on your elbows again but easily this time to help stretch out the chest muscles.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 2,
+      "name": "Dumbbell Incline One-Arm Fly",
+      "type": "Strength",
+      "muscle": "Chest",
+      "mechanics": "Isolation",
+      "equipment": "Dumbbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b3.jpg",
+      "video": "http://player.vimeo.com/external/160304972.sd.mp4?s=b9b0e01d759ba6a672b2a1d1564ae1ce7ff1cb6b&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by laying on an incline bench, with your feet flat on the floor, one arm holding a dumbbell, and the arm extended over your chest. \n 2.) Keeping your elbow slightly bent, lower the weight down until it is about chest level and hold. \n 3.) Return to the starting position and repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 3,
+      "name": "Plyo Push-Up",
+      "type": "Strength",
+      "muscle": "Chest",
+      "mechanics": "Compound",
+      "equipment": "Body Only",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b3.jpg",
+      "video": "http://player.vimeo.com/external/160305264.hd.mp4?s=aaeb1727ff90ebb56d2325394eb772454acb3470&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start in a prone push-up position on the floor with your arms fully extended at shoulder width and keeping your body straight. \n 2.) Slowly descend to the ground by flexing through your elbows, lowering your chest towards the ground until you feel tension. \n 3.) As soon as you feel a stretch in your muscle quickly push yourself back up so that your hands leave the ground./n 4.) Return back to the starting position and repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 4,
+      "name": "Barbell Bench Press",
+      "type": "Strength",
+      "muscle": "Chest",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b3.jpg",
+      "video": "http://player.vimeo.com/external/160273318.hd.mp4?s=3e7adc31c89a4644e9bf80762e88ccefa2706e91&profile_id=119&oauth2_token_id=435967617",
+      "instructions": "Bench press is a great exercise for building a powerful chest. \n The bench press is one of the power exercises, known to be very effective for building body mass. Learning how to do a proper bench press is well worth the effort. \n Steps : \n 1.) Lie with your back flat on a bench with your feet firmly on the ground and the bar resting on the bench’s rack. \n 2.) Slowly lift the bar off the rack and hold it above your chest as this will be the starting position. \n 3.) Then lower the bar down until it is slightly above your chest, making sure that it doesn't touch or slam against your chest. \n  4.) Hold this position briefly and make sure you have complete control of the bar, then raise it back up to the starting position. \n  3.) Place the bar on the rack and that will complete your set. \n  Tips : \n  1.) Changing the width of the bar's grip will change the exercise's focus and targeting. Using a medium grip is the most common grip on the bar which is slightly wider than the shoulder width that is typically marked on the bar. \n 2.) Using a spotter while performing this exercise is essential to make sure that the bar doesn't drop onto your chest and a spotter can provide motivation to lift more weight. \n 3.) The most important thing about the bench press exercise is using a weight that you can manage while maintaining proper form. Many individuals try to lift more weight than they can manage which results in injuring and incorrectly performing the exercise.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 5,
+      "name": "Band Cross-Over",
+      "type": "Strength",
+      "muscle": "Chest",
+      "mechanics": "Compound",
+      "equipment": "Bands",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b3.jpg",
+      "video": "http://player.vimeo.com/external/160273322.sd.mp4?s=8fb2bb5f6efe9d6c3f220bc55c38e0a863687493&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "This exercise uses unique and variable resistance to target your chest and biceps. \n  Steps : \n  1.) Take a resistance band and wrap it around a straight pole or the post of an exercise machine. Keeping the band at around chest level, face away from the post and hold the handles in each hand, spreading them out to your sides. \n 2.) Once you have wrapped the band around the pole, step back until you feel resistance, standing with your feet shoulder-width apart, and keep your knees bent and abs tight. \n  3.) To perform the exercise, slowly allow your hands to come in towards each other, keeping your arms extended out in front of you, until you feel a stretch in your chest. \n 4.) Hold this position for a few seconds then return back to the starting position with your hands extended out and handles spread out at your sides. \n Tips : \n 1.) By using a straight pole, it provides stability to perform the exercise and less likely to slip thus injuring yourself. \n  2.) You are able to vary the resistance by either stepping towards or away from where the band is wrapped around.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 6,
+      "name": "Barbell Decline Bench Press",
+      "type": "Strength",
+      "muscle": "Chest",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b3.jpg",
+      "video": "http://player.vimeo.com/external/160273321.hd.mp4?s=43decc4f7d3f4921e5f438d2affbd45f283b417c&profile_id=119&oauth2_token_id=435967617",
+      "instructions": "This version of the bench press exercise utilizes a decline bench so that the lower part of the chest is targeted. \n  Steps : \n  1.) Start off lying on a decline bench so that your head is lower than your feet. \n  2.) Grab onto the barbell with an overhand shoulder-width grip and hold it directly above your chest as this will be your starting position. \n  3.) Then slowly lower the bar until it is just above your chest, stop and hold for a second then return back to the starting position. \n 4.) Repeat for as many reps and sets as desired. \n Tips : \n 1.) Concentrate on using your chest for this bench press. You should feel as if the lifting is coming from your elbows. \n 1.) Make sure that your feet are flat on the floor and that you are balanced so that the bar does not drop on your chest. \n  2.) Use a weight that you are able to balance and manage. \n 3.) When stopping the barbell on the downward motion, make sure that you stop the barbell slightly above your chest so that it doesn't bounce or touch your chest.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 7,
+      "name": "Barbell Front Raise Pullover",
+      "type": "Strength",
+      "muscle": "Chest",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b3.jpg",
+      "video": "http://player.vimeo.com/external/160273761.sd.mp4?s=1c7d918d3a01178776c376a114bdce304fefba3f&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "The barbell front raise and pullover exercise is a combination exercise that works the chest, shoulder, and arm muscles. \n Steps : \n  1.) Start off lying on a flat bench, grabbing a barbell using a medium grip and placing the bar on your upper thighs while keeping your arms locked straight. \n 2.) Slowly raise your arms up and over, in an arc motion, behind your head (as if you were performing a reverse pullover). \n 3.) Hold this position for a count, feeling a stretch in your muscles, and return back to the starting position on your thighs.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 8,
+      "name": "Barbell Incline Bench Press",
+      "type": "Strength",
+      "muscle": "Chest",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b3.jpg",
+      "video": "http://player.vimeo.com/external/160273320.sd.mp4?s=c17388d80594645f0de07def80a236e2c08bd004&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "The barbell incline bench press is a variation of the bench press exercise that targets your upper chest by using an incline bench with an incline angle. \n Steps : \n 1.) Start off setting up your incline bench to a 45-degree angle or use a pre-designed incline bench press bench. \n 2.) Then lie flat on your back on the bench with your feet firmly planted on the floor gripping the barbell with a slightly wider than shoulder-width apart. \n 3.) Lift the bar off of the rack and hold it right above your chest as this will be your starting position. \n 4.) Slowly lower the bar until it almost touches you and you feel a stretch in your chest, and hold the position for a count. \n 5.) Return back up to the starting position and repeat for as many reps and sets as desired. \n Tips : \n 1.) Do not lock your elbows when you are in the starting position and make sure that you use a slow controlled motion without touching your chest while performing this exercise.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 9,
+      "name": "Barbell Wide Grip Bench Press",
+      "type": "Strength",
+      "muscle": "Chest",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b3.jpg",
+      "video": "http://player.vimeo.com/external/160273750.sd.mp4?s=f7111afa1d8366f61759f24e7eff1d22eb82e8aa&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "The barbell wide grip bench press exercise is a great exercise for the pectoral muscles and uses a wider grip to focus upon the outer portion of the chest. \n Steps : \n 1.) Lie flat on a bench with your feet flat on the floor. \n 1.) Begin with your back flat on a bench with your feet flat on the floor in front of you and grab onto the barbell with a wider-than-shoulder-width grip as this will be your starting position. \n 2.) Lift the bar up and off of the rack, bring it over your chest, and slowly lower it until it is just above your body and you feel a stretch in your chest muscles. \n 3.) Hold for a count then extend your arms upward and raise the bar straight up over your chest. \n 4.) Repeat for as many reps and sets as desired. \n Tips : /n  1.) Keep your abs are drawn in and your back flat on the bench throughout this exercise. \n 2.) Refrain from bouncing the barbell off of your chest as this is improper form and can lead to injury.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 10,
+      "name": "Cable Cross-Over",
+      "type": "Strength",
+      "muscle": "Chest",
+      "mechanics": "Isolation",
+      "equipment": "Machine - Strength",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b3.jpg",
+      "video": "http://player.vimeo.com/external/160273784.sd.mp4?s=2cbf817a27d9f4787314cf942318faf0e5474174&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "The barbell wide grip decline bench press is a great exercise to work the lower portion of the pectoral muscles and also uses a wider grip to focus upon the outer portion of the chest. \n Steps : \n 1.) Start off lying on a decline bench with your head positioned lower than your feet and reach up grabbing the barbell with a wider than shoulder-width as this will be your starting position. \n  2.) Slowly lift the barbell off of the rack, bring it just over your chest, and lower it until it is above the lower portion of your chest and you feel a stretch in your pectoral muscles. \n 3.) Hold this position for a count then return up to the start. \n 4.) Repeat for as many reps and sets as desired. \n Tips : \n 1.) Keep your abs are drawn in and your back flat on the bench throughout this exercise. \n 2.) Refrain from bouncing the barbell off of your chest as this is improper form and can lead to injury. \n 3.) Make sure that you are using a bench so that you can maintain your balance through the exercise.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 11,
+      "name": "Ab Roll",
+      "type": "Strength",
+      "muscle": "Abs",
+      "mechanics": "Isolation",
+      "equipment": "Body Only",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b0.jpg",
+      "video": "http://player.vimeo.com/external/160297530.hd.mp4?s=0098f0397cf824424b6060b2ecfe5b7985a397cb&profile_id=119&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by sitting on the floor with your knees bent, feet planted firmly on the floor, and your hands at your sides behind your knees. \n 2.) Once in position rock backward off of your pelvis towards the floor, keep your hands underneath your knees forming a C shape with your spine. \n 3.) Make sure that you keep your feet planted firmly on the floor throughout the entire motion. \n 4.) Squeeze with your abdominals and hold for a few seconds, then return to the starting position. \n 5.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 12,
+      "name": "Abdominal Hip Roll",
+      "type": "Strength",
+      "muscle": "Abs",
+      "mechanics": "Isolation",
+      "equipment": "Body Only",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b0.jpg",
+      "video": "http://player.vimeo.com/external/160306876.hd.mp4?s=dcc465257483c961f281ad64abc5713b53c3b318&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by laying down on your back flat on the floor keeping your arms straight out and wide to your sides and feet extended out in front of you in a T position. /n 2.) Slowly raise your knees until they are at thigh level and create a 90-degree angle to the floor, then begin by the twist at your hips and lowering your knees towards the floor in a pendulum motion. \n 3.) Don't pause when you reach the bottom, instantly return to the starting position and repeat in the opposite direction. \n 4.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 13,
+      "name": "Air Bike",
+      "type": "Strength",
+      "muscle": "Abs",
+      "mechanics": "Compound",
+      "equipment": "Body Only",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b0.jpg",
+      "video": "http://player.vimeo.com/external/160273572.sd.mp4?s=46eac8400be5bfd6bfe82442cbd930eff5b77585&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start off lying flat as if you were going to perform a sit putting your hands behind your head and lifting your shoulders into a crunch position. \n 2.) Bring your knees up so that they are perpendicular to the floor and your lower legs are parallel to the ground as this will be your starting position. \n 3.) Slowly go through a cycle pedal motion kicking forward with your right leg and bringing in the knee of the left leg. \n 4.) Next bring your right elbow close to your left knee by crunching to the side. \n 5.) Return to the starting position as you breathe in then crunch to the opposite side as you cycle your legs and bring your left elbow close to your right knee. \n 6.) Repeat with each side for as many reps and sets as desired. \n Tips : \n 1.) Reduce the speed of the exercise for more intensity and better results.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 14,
+      "name": "Alternating Floor Leg Raise",
+      "type": "Strength",
+      "muscle": "Abs",
+      "mechanics": "Isolation",
+      "equipment": "Body Only",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b0.jpg",
+      "video": "http://player.vimeo.com/external/160306866.hd.mp4?s=fb95f94712f1658338d360e91b291c984ea1bae6&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by laying with your back flat on the floor, arms at your side, and feet extended out straight in front of you. \n 2.) Slowly lift one of your legs off of the floor, keeping the other one still and on the floor until your elevated foot is at a 90-degree angle with the ground. \n 3.) Feel a stretch in your abdominals then return the leg to the starting position and repeat with the opposite leg. \n 4.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 15,
+      "name": "Alternating Reach and Catch",
+      "type": "Strength",
+      "muscle": "Abs",
+      "mechanics": "Isolation",
+      "equipment": "Body Only",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b0.jpg",
+      "video": "http://player.vimeo.com/external/160306855.hd.mp4?s=de8b5ad9f5f7b1c1bc0e7e7c2de7e54571c32859&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Begin by laying your back flat on the floor, keeping your legs bent and feet planted on the floor to stabilize your body. \n 2.) Then take both of your hands and place them on your right thigh until you reach your knee and feel a stretch in your abs, then return to the starting position. \n 3.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 16,
+      "name": "Barbell Seated Twist",
+      "type": "Strength",
+      "muscle": "Abs",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b0.jpg",
+      "video": "http://player.vimeo.com/external/160280863.sd.mp4?s=b37615c5037c536fb1b203c0c525b72fe2f1709d&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) To begin this exercise; start with your body sitting at the end of a flat bench with a barbell placed on the back of your shoulders behind your neck. \n 2.) Keep your feet and your head still; twist your torso from side to side squeezing your abs tightly holding for a few seconds when you reach each side. \n 3.) Release and exhale as you return to the starting position. \n 4.) Repeat this exercise for as many repetitions as needed.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 17,
+      "name": "Ab Draw Leg Slide",
+      "type": "Strength",
+      "muscle": "Abs",
+      "mechanics": "Isolation",
+      "equipment": "Body Only",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b0.jpg",
+      "video": "http://player.vimeo.com/external/160297513.hd.mp4?s=adb1dc35f3f1e336eeecd5a1380869c7edefae0e&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by laying on your back with your knees bent at 90 degrees keeping your arms at your sides, palms up. \n 2.) Maintaining slight pressure on your hands, extend your legs slowly forward so that you feel a stretch and a contraction in your abdominals. \n 3.) Return to the starting position and repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 18,
+      "name": "Alternating Leg Bridge",
+      "type": "Strength",
+      "muscle": "Abs",
+      "mechanics": "Compound",
+      "equipment": "Body Only",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b0.jpg",
+      "video": "http://player.vimeo.com/external/160297251.hd.mp4?s=232563f0d8b1b0e3578f185791e82137e74b6b66&profile_id=119&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by laying on your back with arms at your sides, keeping one knee bent with your heel on the ground and the other leg pointed straight out in front of you at a 45-degree angle. \n 2.) Slowly lift your hips off of the ground and squeeze your glutes. \n 3.) Form a straight line with your body through your shoulders and knees. \n 4.) Hold onto this position for a few seconds then return to the starting position. \n 5.) Alternate legs and repeat.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 19,
+      "name": "Bent Knee Hundreds",
+      "type": "Strength",
+      "muscle": "Abs",
+      "mechanics": "Isolation",
+      "equipment": "Body Only",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b0.jpg",
+      "video": "http://player.vimeo.com/external/160297397.sd.mp4?s=aee06d20077ecdd13ac7f49f1c37246c2dee17af&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start off laying on your back with both feet raised and bent so that your knees are at a 90-degree angle directly over your hips. \n 2.) Keep your arms resting by your sides but with your palms down and a slight elbow bend. \n 3.) Flex your body forward letting your head and shoulders curl up off of the floor and bringing your chest to your pelvis. \n 4.) Then raise your arms off of the floor and keep them at level with your shoulders, moving them up and down rapidly but in a controlled motion. \n 5.) Return to the starting position and repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 20,
+      "name": "Cable Crunch Rotation",
+      "type": "Strength",
+      "muscle": "Abs",
+      "mechanics": "Isolation",
+      "equipment": "Machine - Strength",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b0.jpg",
+      "video": "http://player.vimeo.com/external/160305172.sd.mp4?s=4c4d840d90a6903a4c65360ea503e6d13d8a5040&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by connecting a rope attachment to a high pulley cable machine, grabbing the rope with both hands, and moving it into a kneeling position on the floor. \n 2.) Position the rope behind your head with your hands by your ears, then contract your abs as you pull down on the rope in a crunch movement until your elbows touch your knees. \n 3.) Hold this position for a count and then return up to the starting position and repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 21,
+      "name": "Barbell Behind the Back Shrug",
+      "type": "Strength",
+      "muscle": "Back",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b1.jpg",
+      "video": "http://player.vimeo.com/external/160281087.hd.mp4?s=c7b6820b57ca15bc9cf4c797e7603abd17a623ec&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) To begin this exercise; start by placing a barbell behind your back resting it slightly against your quads with your palms facing backward. \n 2.) With your shoulders, raise the barbell so that it reaches your glutes and hold onto the position for a few seconds. \n 3.) Return to the starting position. \n 4.) Repeat this exercise for as many repetitions as needed.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 22,
+      "name": "Barbell Bent-Over Row",
+      "type": "Strength",
+      "muscle": "Back",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b1.jpg",
+      "video": "http://player.vimeo.com/external/160273330.sd.mp4?s=6efc4741b1382dcac67ef9275db2760aa68df3bc&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) To begin this exercise, stand in front of a barbell with your feet shoulder-width apart and bend over until your back is parallel to the floor. \n 2.) Grab the bar with a shoulder-width grip then lift the bar off of the ground and this will be your starting position. \n 3.) Take the bar and raise it towards your chest using a controlled motion and continue until the bar is almost touching your lower chest. \n 4.) Hold this position for a few seconds, squeezing your back muscles, and then lower the bar back to the starting position. \n Tips : \n 1.) While performing this exercise keep your head up and your back straight.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 23,
+      "name": "Barbell Good Morning",
+      "type": "Strength",
+      "muscle": "Back",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b1.jpg",
+      "video": "http://player.vimeo.com/external/160273334.hd.mp4?s=61bd375418d1c1ff3561f94e732ba842f385f7f8&profile_id=119&oauth2_token_id=435967617",
+      "instructions": "The good morning exercise is an exercise that helps strengthen your lower back while also working the hamstrings and glutes. \n Steps : \n 1.) Start with resting a barbell just behind your shoulders and standing up straight with your feet shoulder-width apart and abs tight to support your back. \n 2.) Once in position start leaning forward, lowering your torso until it is parallel to the ground and your knees slightly bent. \n 3.) When your body is parallel to the ground, stop and hold the position for a count while looking forward then return to the starting position and repeat for as many reps and sets as desired. \n Tips : \n 1.) Before you begin this exercise, make sure that you have the barbell on the squat rack so that it is easier to get into the starting position.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 24,
+      "name": "Barbell Good Morning",
+      "type": "Strength",
+      "muscle": "Back",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b1.jpg",
+      "video": "http://player.vimeo.com/external/160273334.hd.mp4?s=61bd375418d1c1ff3561f94e732ba842f385f7f8&profile_id=119&oauth2_token_id=435967617",
+      "instructions": "The good morning exercise is an exercise that helps strengthen your lower back while also working the hamstrings and glutes. \n Steps : \n 1.) Start with resting a barbell just behind your shoulders and standing up straight with your feet shoulder-width apart and abs tight to support your back. \n 2.) Once in position start leaning forward, lowering your torso until it is parallel to the ground and your knees slightly bent. \n 3.) When your body is parallel to the ground, stop and hold the position for a count while looking forward then return to the starting position and repeat for as many reps and sets as desired. \n Tips : \n 1.) Before you begin this exercise, make sure that you have the barbell on the squat rack so that it is easier to get into the starting position.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 25,
+      "name": "Barbell Prone Cambered Row",
+      "type": "Strength",
+      "muscle": "Back",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b1.jpg",
+      "video": "http://player.vimeo.com/external/160429587.hd.mp4?s=a4d717bae52262d893c6e92399eeb99890669bff&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by placing a cambered or EZ bar underneath an exercise bench, then lay face down grabbing the bar with a palms-down grip. \n 2.) Slowly row the bar up towards your chest, keeping your elbows close to your body until you feel the tension in your lower back. \n 3.) Hold this position for a count then return to the start. \n 4.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 26,
+      "name": "Assisted Hyperextension",
+      "type": "Strength",
+      "muscle": "Back",
+      "mechanics": "Compound",
+      "equipment": "Body Only",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b1.jpg",
+      "video": "http://player.vimeo.com/external/160281004.sd.mp4?s=9798d55d686d5c775e309297cd3f0e4311a120fb&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) To begin this exercise; have a partner grab your legs as your lay down on your stomach on a flat bench until your pelvis has reached the end of the bench. \n 2.) Keep your body straight and cross your arms across your chest and then start to bend forward as far as you can until you can almost touch the floor. \n 3.) Return to the starting position using your torso and inhale on the way up. \n 4.) Repeat this exercise for as many repetitions as needed.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 27,
+      "name": "Barbell Incline Bench Pull",
+      "type": "Strength",
+      "muscle": "Back",
+      "mechanics": "Isolation",
+      "equipment": "Bench, Barbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b1.jpg",
+      "video": "http://player.vimeo.com/external/160273617.sd.mp4?s=f1b660c9e26dbdaabcaf237435353affefa59df8&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by grabbing dumbbells or a barbell and lie face down on a 45-degree incline bench. \n 2.) Let your arms hang down by your sides so that they are down towards the floor while using a palms-down grip to lift either the barbell or dumbbells toward your face. \n 3.) Once the dumbbells are near your face, hold for a count, then return down slowly to the starting position. \n 4.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 28,
+      "name": "Barbell One-Arm Row",
+      "type": "Strength",
+      "muscle": "Back",
+      "mechanics": "Isolation",
+      "equipment": "Bench, Barbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b1.jpg",
+      "video": "http://player.vimeo.com/external/160429572.sd.mp4?s=1c22915dee000511cea85882097f0c5021f9a341&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Begin by grabbing a barbell with an underhand grip, about shoulder-width apart, and bending over at around 60 degrees so that your spine is a bit lower towards the ground. \n 2.) Slowly pull the barbell straight back and towards the chest with one arm, maintaining a still position. \n 3.) Hold as you reach your chest then return to the starting position. \n 4.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 29,
+      "name": "Barbell Pullover",
+      "type": "Strength",
+      "muscle": "Back",
+      "mechanics": "Compound",
+      "equipment": "Bench, Barbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b1.jpg",
+      "video": "http://player.vimeo.com/external/160280988.sd.mp4?s=b49cfcebbcf040964f2acdf9292349f98df5708d&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) To begin this exercise; start by lying on your back on a flat bench holding a weighted barbell above your chest with your arms slightly bent. \n 2.) Keeping your arms bent, slowly lower your arms behind your head until you feel a stretch on your chest then hold onto that position for a few seconds. \n 3.) Then return the barbell to the starting position. \n 4.) Repeat this exercise for as many repetitions as needed.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 30,
+      "name": "Barbell Reverse Grip Bent-Over Row",
+      "type": "Strength",
+      "muscle": "Back",
+      "mechanics": "Compound",
+      "equipment": "Bench, Barbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b1.jpg",
+      "video": "http://player.vimeo.com/external/160273326.sd.mp4?s=4207f839c2998ddb36304531d7f24770b2a74602&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "The Barbell Reverse Grip Bent Over Row is an excellent exercise for developing overall back strength. \n Steps : \n 1.) Begin by keeping your knees slightly bent and your back straight. \n 2.) Grab the barbell with a reverse (underhand) grip and pick up the barbell so it is at around shin level. \n 3.) While keeping yourself bent and balanced, slowly pull the barbell up to your abs, and keep your elbows tucked in at your sides. \n 4.) Once you have reached the top of the exercise, hold for a count, squeezing your back and return to the starting position. \n 5.) Repeat for as many reps and sets as desired. \n Tips : \n 1.) It is important to keep your back straight when you perform this exercise and if your back starts to round out, bend your knees slightly to keep it straight.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 31,
+      "name": "Barbell Front Raise",
+      "type": "Strength",
+      "muscle": "Shoulders",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b6.jpg",
+      "video": "http://player.vimeo.com/external/160273329.hd.mp4?s=5ad208d199cf059c7e910f6bb38dbfcd159f2c2e&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "When performing this exercise, you are working your front shoulder muscles. \n Steps : \n 1.) Start off grabbing a barbell with an overhand grip and keeping your abs tight. \n 2.) Keeping your arms relatively straight, slightly bend your elbows, bend your knees and raise the barbell to shoulder level. \n 3.) Once at shoulder level, hold for a second then return to the starting position in a controlled motion. \n Tips : \n 1.) During this exercise it is important to keep your abs tight to support your back muscles and do not use your back to help you lift.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 32,
+      "name": "Barbell Incline Shoulder Raise",
+      "type": "Strength",
+      "muscle": "Shoulders",
+      "mechanics": "Compound",
+      "equipment": "Barbell, Bench",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b6.jpg",
+      "video": "http://player.vimeo.com/external/160273329.hd.mp4?s=5ad208d199cf059c7e910f6bb38dbfcd159f2c2e&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) To begin this exercise; start by lying flat back on an incline bench with a medium-width grip on the barbell. \n 2.) Take the bar off the rack and hold it straight over your head with arms straight. \n 3.) With the bar above your head, raise the shoulders off the bench and exhale. \n 4.) Return the bar to the starting position and inhale. \n 5.) Repeat this exercise for as many repetitions as needed.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 33,
+      "name": "Barbell Military Press",
+      "type": "Strength",
+      "muscle": "Shoulders",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b6.jpg",
+      "video": "http://player.vimeo.com/external/160281270.hd.mp4?s=78002fc3f7d5ebf40c962915c4c4cb47b0f4cf54&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) To begin this exercise; start by taking a weighted barbell and have it pressed up against your chest with your palms facing outward. \n 2.) With the barbell in position, lift it above your head with locked arms and hold for a few seconds squeezing your back and shoulders tightly. \n 3.) Return to the starting position. \n 4.) Repeat this exercise for as many repetitions as needed.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 34,
+      "name": "Barbell Rear Delt Row",
+      "type": "Strength",
+      "muscle": "Shoulders",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b6.jpg",
+      "video": "http://player.vimeo.com/external/160281128.sd.mp4?s=8317b6d9abbe395a0b98354ecf64581997b9939e&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) To begin this exercise; start by placing a weighted barbell in front of your legs bending over slightly with your glutes extended out. \n 2.) Let your arms hang down and grab the barbell, lifting slightly so that the bar is rested around your shins. \n 3.) Pull the barbell up towards your chest keeping your body still during the entire movement. \n 4.) As you reach your chest squeeze your back and your deltoids tightly holding on for a few seconds. \n 5.) Return to the starting position. \n 6.) Repeat this exercise for as many repetitions as needed.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 35,
+      "name": "Cable Bent-Over Lateral Pulley",
+      "type": "Strength",
+      "muscle": "Shoulders",
+      "mechanics": "Isolation",
+      "equipment": "Machine - Strength",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b6.jpg",
+      "video": "http://player.vimeo.com/external/160307354.sd.mp4?s=1866b0cafdc8739b51f3b1b180eb42e5b184cb40&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by setting up handles on two low pulley cable machines and positioning yourself in between the machines with feet shoulder-width apart. \n 2.) Bend down with your upper body, keeping your lower body still, so that your back is parallel with the floor. \n 3.) Grab each handle with the opposite hand and bring it in towards your chest, keeping your arms crossed. \n 4.) Slowly let your arms extend outward, feeling a stretch in your shoulders and squeeze. \n 5.) Hold for a count then return to the starting position. \n 6.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 36,
+      "name": "Barbell Seated High Front Raise",
+      "type": "Strength",
+      "muscle": "Shoulders",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b6.jpg",
+      "video": "http://player.vimeo.com/external/160307094.sd.mp4?s=5534ecdb6bea193a1d675434f20da80ba403fd69&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by sitting up straight at the end of a flat bench with your feet on the floor in front of you holding a weighted barbell on your knees with an overhand grip. \n 2.) While keeping your arms straight, slowly elevate the barbell up and over your head, squeezing your shoulders on the way up, and hold for a count. \n 3.) Return to the starting position. \n 4.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 37,
+      "name": "Barbell Shoulder Press",
+      "type": "Strength",
+      "muscle": "Shoulders",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b6.jpg",
+      "video": "http://player.vimeo.com/external/160273319.sd.mp4?s=1d3210be500e6d37bae45bdd2e09e4f7f2028bb4&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "The Barbell Shoulder Press primarily works on the deltoid muscle of the shoulders but also brings the surrounding muscles into play. \n Steps : \n 1.) Start by sitting on a bench with your toes pointing forward, keeping your back straight and your abs tight. \n 2.) Grab the barbell with an overhand grip and keep your hands shoulder-width apart. \n 3.) When bringing the barbell down towards your body, make sure that it is in line with your chin, hold for a count then push back upward over your head by extending your arms. \n 4.) When reaching the position above your head, pause and hold for a count, then return to the starting position. \n Tips : \n 1.) If you are experiencing any shoulder pain, then you should not perform this exercise. \n 2.) While performing this exercise, make sure that you do not hyperextend your back. \n 3.) If you lean forward while in motion, use a lighter weight as you might injure your back. \n 4.) You can also perform this exercise with dumbbells.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 38,
+      "name": "Barbell Upright Row",
+      "type": "Strength",
+      "muscle": "Shoulders",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b6.jpg",
+      "video": "http://player.vimeo.com/external/160273325.sd.mp4?s=00242061d1c4638735f6d60764ca416aec340d03&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Targeting your traps and deltoids, the barbell upright row is an important shoulder strengthening exercise. \n Steps : \n 1.) Start by standing up straight with your feet shoulder-width apart. \n 2.) Grab the barbell with an overhand grip (your palms facing towards you). \n 3.) Once you have a grip, raise the bar towards your chin, elevating and contracting from your shoulders and traps, until it is about collarbone level. \n 4.) As soon as you reach the top position, hold for a count then slowly lower the bar back to the starting position. \n Tips : \n 1.) If possible and available, try performing this exercise while using a rack, you will be able to rest the weight on the rack and pick it up from a more comfortable position without injuring yourself or pulling your muscles. \n 2.) Prevent dropping your shoulders \n 3.) Keeping your abs tight will help protect your back during the upright row. \n 4.) Using a shoulder-width grip and maintaining good posture while performing this exercise is key. \n 5.) Holding onto the bar with a narrow grip will help target the trap muscles more but in the turn will make you more prone to shoulder injury.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 39,
+      "name": "Cable Rope Face Pull",
+      "type": "Strength",
+      "muscle": "Shoulders",
+      "mechanics": "Compound",
+      "equipment": "Machine - Strength",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b6.jpg",
+      "video": "http://player.vimeo.com/external/160305299.hd.mp4?s=7e765eebb3d480699ed949b4185434735f4bc86a&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by facing a high pulley cable machine with either a rope or dual handles connected to the machine. \n 2.) Grab onto the handles and pull the weight directly towards your face, using your shoulders, and separating your shoulders as you pull the weights back. \n 3.) Hold for a count then return to the starting position. \n 4.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 40,
+      "name": "Dumbbell Alternating Arnold Press",
+      "type": "Strength",
+      "muscle": "Shoulders",
+      "mechanics": "Compound",
+      "equipment": "Dumbbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b6.jpg",
+      "video": "http://player.vimeo.com/external/160307102.sd.mp4?s=6ccbe71a4f3abbe91d0d43a07fe0ad264d3a9677&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by standing up straight with feet shoulder-width apart and holding a dumbbell in each hand. \n 2.) Slowly, while using your thighs, raise the dumbbells to shoulder level and twist your palms so that they are facing in toward your body. \n 3.) From there raise one dumbbell above your head while keeping the other one still, squeezing in your shoulder, and holding for a count. \n 4.) Return to the starting position and repeat with the opposite hand. \n 5.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 41,
+      "name": "Barbell Close Grip Curl",
+      "type": "Strength",
+      "muscle": "Biceps",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b2.jpg",
+      "video": "http://player.vimeo.com/external/160273651.sd.mp4?s=7429bf5de1242b5fa2773d78add5ec4ac89cbbd2&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "The close-grip standing barbell curl uses a barbell to help isolate the bicep during the curl. \n Steps : \n 1.) Start by standing up straight with your feet shoulder-width apart, keeping your knees slightly bent and abs tight. \n 2.) Grab a barbell with an underhand grip and extend your arms against your thighs as this will be your starting position. \n 3.) While keeping your elbows locked by your side, raise the bar towards your chest. \n 4.) Hold this position for a count and return to the starting position.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 42,
+      "name": "Barbell Curl Against an Incline",
+      "type": "Strength",
+      "muscle": "Biceps",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b2.jpg",
+      "video": "http://player.vimeo.com/external/160273644.hd.mp4?s=5c6fde5b5cae9c33534c46af7cffa57c67eaa6b1&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "The barbell curls lying against an incline exercise uses an incline bench to help adjust your bodys position to perform bicep curls. \n Steps : \n 1.) Start by taking an incline bench and setting it to a 45-degree angle, then grab a barbell with a shoulder-width grip and lean forward against it with your feet resting on the floor for support. \n 2.) Hang your arms down over the bench holding onto the barbell, keeping your elbows straight, and raise the bar towards your head, isolating the biceps. \n 3.) Hold onto this position for a count then return to the starting position.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 43,
+      "name": "Barbell Concentration Curl",
+      "type": "Strength",
+      "muscle": "Biceps",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b2.jpg",
+      "video": "http://player.vimeo.com/external/160306946.sd.mp4?s=0a877d2b2c1771812dc58fe28370321fec087c13&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Begin by sitting on a flat bench, holding a weighted barbell in front of you, arms extended out, and feet flat on the floor. \n 2.) Hold the barbell with an underhand grip, palms facing up, then lean forward with your upper body so that your arms are touching your inner thighs. \n 3.) Keep your legs tight against your arms throughout the exercise then slowly curl the bar up towards your shoulders, isolating the bicep, and hold for a count. \n 4.) Return to the starting position. \n 5.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 44,
+      "name": "Barbell Curl",
+      "type": "Strength",
+      "muscle": "Biceps",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b2.jpg",
+      "video": "http://player.vimeo.com/external/160273685.hd.mp4?s=fccde8c25e1e3343d0a268aa845244eb10b09fcd&profile_id=119&oauth2_token_id=435967617",
+      "instructions": "The barbell curl is a basic bicep exercise that helps increase the size of the muscles. \n Steps : \n 1.) Start off standing up straight with your feet shoulder-width apart, keeping your knees slightly bent and abs are drawn in tight. \n 2.) Grab a barbell with a shoulder-width underhand (palms up) grip, lowering your arms down to your thighs fully and bending slightly at your elbows as this will be your starting position. \n 3.) Slowly raise the bar towards your upper chest, squeezing your muscles and isolating the biceps. \n 4.) Hold this position for a count and then return to the starting position. \n Tips : \n 1.) Refrain from swinging your hips or back during this exercise.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 45,
+      "name": "Barbell Preacher Curl",
+      "type": "Strength",
+      "muscle": "Biceps",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b2.jpg",
+      "video": "http://player.vimeo.com/external/160273684.sd.mp4?s=89a50f44a7deb331655e6fdb8ccf0e9e56053f57&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "The preacher curl exercise uses a special bench to help support the triceps and isolate the biceps to build bigger arms. \n Steps : \n 1.) Start by adjusting the seat of a preacher bench so that your arms are level with the top of the bench. \n 2.) Grab onto a bicep curl bar with an underhand (palms up) grip, keeping your arms shoulder-width apart, resting them against the bench, and extending them fully. \n 3.) While keeping your arms on the bench, slowly curl the bar up towards your head, isolating the bicep and squeezing the muscles. \n 4.) Hold for a count and then return to the starting position. \n Tips : \n 1.) slowly perform this exercise to attain the best results.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 46,
+      "name": "Barbell Bicep Drag Curl",
+      "type": "Strength",
+      "muscle": "Biceps",
+      "mechanics": "Compound",
+      "equipment": "Barbell, EZ Curl Bar",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b2.jpg",
+      "video": "http://player.vimeo.com/external/160281014.sd.mp4?s=6977570d68892f7861c6d4fdbd7b2272fd5ff231&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) To begin this exercise; take a barbell with palms facing forward with the barbell resting at your pelvis. \n 2.) Then take the barbell and curl it towards your upper chest as a way to “Drag” the bar up. \n 3.) Hold and squeeze the biceps tightly. \n 4.) Return the barbell down to the starting position keeping the barbell in contact with your body. \n 5.) Repeat this exercise for as many repetitions as needed.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 47,
+      "name": "Barbell Drag Curl",
+      "type": "Strength",
+      "muscle": "Biceps",
+      "mechanics": "Compound",
+      "equipment": "Barbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b2.jpg",
+      "video": "http://player.vimeo.com/external/160280322.sd.mp4?s=d6b054758982168807900d5e786ed39af40ad48b&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "The barbell drag curl is a great exercise that blasts and targets the bicep muscles and even works out the forearms. \n Steps : \n 1.) Start by standing with your feet shoulder-width apart, your knees slightly bent and your abs are drawn in. \n 2.) Grab the bar with a shoulder-width overhand grip (palms down) and extend your arms fully so they are against your thighs. \n 3.) Slowly raise your arms, palms down, to touch your chest. \n 4.) Return to the starting position and repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 48,
+      "name": "Barbell One-Arm Bicep Curl",
+      "type": "Strength",
+      "muscle": "Biceps",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b2.jpg",
+      "video": "http://player.vimeo.com/external/160280819.hd.mp4?s=cfae854285ff7a67df52b06216038c6bdf9921a7&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "The one-arm bicep curl with an Olympic bar exercise is an advanced workout used for building stability and strength in the bicep muscles. \n Steps : \n 1.) Start by standing with your feet shoulder-width apart and your knees slightly bent. \n 2.) Grab an Olympic bar (empty weight bar) in the middle with one hand so that the bar is equally balanced, keeping your free hand at your side for support. \n 3.) Curl the bar up so your forearm touches your bicep, squeezing and isolating the muscle. \n 4.) Slowly lower the bar and change arms. \n 5.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 49,
+      "name": "Barbell Reverse Preacher Curl",
+      "type": "Strength",
+      "muscle": "Biceps",
+      "mechanics": "Isolation",
+      "equipment": "EZ Curl Bar",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b2.jpg",
+      "video": "http://player.vimeo.com/external/160273678.sd.mp4?s=3923a1fa98a2dc10a823e2b3929075569fc562ff&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by setting up either a weighted barbell or an EZ bar with the weight that you would like to use to perform this exercise. \n 2.) Then sit down on the bench with your feet flat on the floor and arms extended out grabbing onto the bar with an overhand reverse grip. \n 3.) Slowly curl the bar up towards your shoulders, isolating and squeezing your shoulders, and hold for a count. \n 4.) Return to the starting position. \n 5.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 50,
+      "name": "Cable Pulldown Bicep Curl",
+      "type": "Strength",
+      "muscle": "Biceps",
+      "mechanics": "Isolation",
+      "equipment": "Machine - Strength",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b2.jpg",
+      "video": "http://player.vimeo.com/external/160306893.sd.mp4?s=bf6bab7dc2ed24c4a2f2d75570fb04f3d7f4d2e1&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by sitting on a lat pulldown machine, with your knees underneath the padding, feet flat on the floor, and hands gripping the bar with a close underhand grip. \n 2.) Slowly curl the bar down and behind your head, isolating your biceps, and hold for a count. \n 3.) Then return to the starting position. \n 4.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    }
+  ],
+  "workout": [
+    {
+      "id": 1,
+      "name": "4-Week Strong Core Program",
+      "type": "General Fitness",
+      "difficulty": "Advanced",
+      "login": false,
+      "photo": "https://cdn.jefit.com/uc/file/23cae65f3a1c094b/1.jpg",
+      "description": "This 2-day core program was developed from 2019 research published in the Journal of Sports Science & Medicine. The research looked at the efficacy of foam rolling and a core strengthening program on different athletic and health outcomes. \n The results from the original program, based on 2 weekly sessions for 8-weeks, concluded the following: \n 1. Eight weeks of core-stability training two times per week improved dorsal trunk strength with no changes in a foam rolling group or the control. \n 2. Hamstring flexibility was improved both by an eight-week core-strength and foam rolling training intervention. \n In this Jefit core program, the first four weeks use less intensity and overall time and include 5 core exercises. In weeks 5-8, the focus is on similar core movements with longer old times, slight progressions, and about a 2-minute longer workout session.\n Jefit combined the program into one four-week program to make things easier.",
+      "completed": false,
+      "progress": [],
+      "workouts": [
+        {
+          "Core Workout 1": [
+            {
+              "Name": "Plank",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Bridge",
+              "Muscle": "Glutes",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Side Bridge",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Bird Dog",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Lower Back Curl",
+              "Muscle": "Back",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            }
+          ],
+          "Core Workout 2": [
+            {
+              "Name": "Plank with Side Kick",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Alternate Leg Bridge",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Side Bridge",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Bird Dog",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Superman",
+              "Muscle": "Back",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Stronger and Bigger Shoulders",
+      "type": "Bulking",
+      "difficulty": "Beginner",
+      "login": false,
+      "photo": "https://cdn.jefit.com/uc/file/a5811cb1d49a291b/1.jpg",
+      "description": "This is a 6-week shoulder routine for those who want to focus on building stronger and bigger shoulders. \n For many people who lift, there is a desire to have wide and thick shoulders to carry and keep your frame in proportion. \n In this routine, you will focus on exercises that will target the small muscles of the shoulders and stimulate the separation of the fibers to create that coconut look that many desire to have. \n For the first 3 weeks of the routine, you will work with dumbbells to initiate the separation of the shoulder muscles and work the smaller muscle fibers for growth. \n Then going into weeks 4 - 6, you will use barbell exercises to isolate the shoulder muscles and focus on growth and strength. \n When you start the first set of each exercise you will perform the amount of weight that you can do 12 repetitions for, followed by increasing the amount of weight and lowering the reps until you have completed all of the sets. /n *** Notes: Also working out your shoulders/delts will slim out your waistline. \n For the first 3 weeks, you can also substitute in cable exercises instead of dumbbells to target muscle separation.",
+      "completed": false,
+      "progress": [],
+      "workouts": [
+        {
+          "Weeks 1 - 3": [
+            {
+              "Name": "Dumbbell Shoulder Shrug",
+              "Muscle": "Shoulders",
+              "Timer": "60secs",
+              "Reps": "12, 10, 8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Dumbbell Upright Row",
+              "Muscle": "Shoulders",
+              "Timer": "60secs",
+              "Reps": "12, 10, 8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Dumbbell Shoulder Press",
+              "Muscle": "Shoulders",
+              "Timer": "60secs",
+              "Reps": "12, 10, 8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Seated Side Lateral Raise",
+              "Muscle": "Shoulders",
+              "Timer": "60secs",
+              "Reps": "12, 10, 8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Seated Dumbbell Front Raise",
+              "Muscle": "Shoulders",
+              "Timer": "60secs",
+              "Reps": "12, 10, 8",
+              "Sets": "3",
+              "completed": false
+            }
+          ],
+          "Weeks 4 - 6": [
+            {
+              "Name": "Barbell Shrug",
+              "Muscle": "Shoulders",
+              "Timer": "90secs",
+              "Reps": "12, 10, 8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Barbell Up Right Row",
+              "Muscle": "Shoulders",
+              "Timer": "90secs",
+              "Reps": "12, 10, 8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Barbell Shoulder Press",
+              "Muscle": "Shoulders",
+              "Timer": "90secs",
+              "Reps": "12, 10, 8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Dumbbell Lateral Raise",
+              "Muscle": "Shoulders",
+              "Timer": "90secs",
+              "Reps": "12, 10, 8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Dumbbell Front Raise",
+              "Muscle": "Shoulders",
+              "Timer": "90secs",
+              "Reps": "12, 10, 8",
+              "Sets": "3",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bodyweight Leg Plan",
+      "type": "General Fitness",
+      "difficulty": "Beginner",
+      "login": false,
+      "photo": "https://cdn.jefit.com/uc/file/e22684aec9bc15aa/1.jpg",
+      "description": "This is a 2-day, beginner, bodyweight strength program for the legs. Each day offers six unique bodyweight exercises. No weights are needed. Start and end your week with this program. Add a few sessions of bodyweight upper body exercises on Tue/Thur for a complete full body plan. \n Day 1: Perform 6 bodyweight exercises. The workout time is about 35 minutes. \n Day 2: Complete another 6 bodyweight exercises for session 2. Workout time is also about 35 minutes. \n *Note: The first exercise in each of these days should be performed for 30 seconds each (not reps.) so have your interval timer on. The rest of the sets are repetition based.",
+      "completed": false,
+      "progress": [],
+      "workouts": [
+        {
+          "Workout 1": [
+            {
+              "Name": "Single Leg Glute Bridge",
+              "Muscle": "Abs",
+              "Timer": "30secs",
+              "Reps": "-",
+              "Sets": "2",
+              "completed": false
+            },
+            {
+              "Name": "Prisoner Squat",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Mountain Climber",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "15",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Bodyweight Rear Lunge",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Jump Squat",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "6",
+              "Sets": "2",
+              "completed": false
+            },
+            {
+              "Name": "Single Leg Calf Raise",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            }
+          ],
+          "Workout 2": [
+            {
+              "Name": "Bridge",
+              "Muscle": "Glutes",
+              "Timer": "30secs",
+              "Reps": "-",
+              "Sets": "2",
+              "completed": false
+            },
+            {
+              "Name": "Bodyweight Squat",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Reverse Hyper on Flat Bench",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Side Step-Up",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "6",
+              "Sets": "2",
+              "completed": false
+            },
+            {
+              "Name": "Split Jump",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "6",
+              "Sets": "2",
+              "completed": false
+            },
+            {
+              "Name": "Bodyweight Standing Calf Raise",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "From Fat to Fit (3-Month Plan)",
+      "type": "Cutting",
+      "difficulty": "Advanced",
+      "login": false,
+      "photo": "https://cdn.jefit.com/uc/file/c2f58ad6f17797a3/1.jpg",
+      "description": "This is an advanced cutting routine designed to help individuals increase their heart rate, workout intensity, and metabolic rate to stimulate fat loss and getting lean. \n In this routine, you will be working out 6 to 7 days a week for optimal fat loss and muscle growth. \n This routine will be performed for 3 months, as this is the optimal time to confuse your body into this new exercise program and trigger fat loss/muscle growth and strength. \n There is a mix of bodyweight, dumbbell, weighted, and core exercises used in this routine to work and build the muscles.\n Each day of the routine will focus on a major body part, a mixture of various core exercises and cardio to help burn calories and excess fat storage in the body. \n You may institute a rest day into your routine schedule if you feel that training 7 days a week is too excessive. \n Cardio at the beginning of the workout day should be performed as a warm-up only to get your heart rate up and loosen the muscles before the workout at hand. The final cardio of the day is used to burn even more calories for optimal fat loss.",
+      "completed": false,
+      "progress": [],
+      "workouts": [
+        {
+          "Legs and Abs": [
+            {
+              "Name": "Elliptical Training",
+              "Muscle": "Cardio",
+              "Timer": "15min",
+              "Reps": "-",
+              "Sets": "-",
+              "completed": false
+            },
+            {
+              "Name": "Bodyweight Lunge",
+              "Muscle": "Upper legs",
+              "Timer": "60secs",
+              "Reps": "20",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Rear Bodyweight Lunge",
+              "Muscle": "Upper Legs",
+              "Timer": "60secs",
+              "Reps": "20",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Freehand Jump Squat",
+              "Muscle": "Upper Legs",
+              "Timer": "60secs",
+              "Reps": "20",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Bodyweight Standing Calf Raise",
+              "Muscle": "Lower Legs",
+              "Timer": "60secs",
+              "Reps": "20",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Prisoner Squat",
+              "Muscle": "Upper Legs",
+              "Timer": "60secs",
+              "Reps": "20",
+              "Sets": "3",
+              "completed": false
+            }
+          ],
+          "Chest and Abs": [
+            {
+              "Name": "Treadmill Running",
+              "Muscle": "Cardio",
+              "Timer": "15min",
+              "Reps": "-",
+              "Sets": "-",
+              "completed": false
+            },
+            {
+              "Name": "Dumbbell Bench Press",
+              "Muscle": "Chest",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Dumbbell Incline Bench Press",
+              "Muscle": "Chest",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Dumbbell Fly",
+              "Muscle": "Chest",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Decline Bench Leg Raise",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "20",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Decline Weighted Twist",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "20",
+              "Sets": "3",
+              "completed": false
+            }
+          ],
+          "Arms and Back": [
+            {
+              "Name": "Rowing",
+              "Muscle": "Cardio",
+              "Timer": "15min",
+              "Reps": "-",
+              "Sets": "-",
+              "completed": false
+            },
+            {
+              "Name": "Wide Grip Lat Pulldown",
+              "Muscle": "Back",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Cable Seated Row",
+              "Muscle": "Back",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Pull Ups",
+              "Muscle": "Back",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Close Grip Preacher Curl",
+              "Muscle": "Biceps",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Chest Dip",
+              "Muscle": "Triceps",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Barbell Curl",
+              "Muscle": "Biceps",
+              "Timer": "60secs",
+              "Reps": "12",
+              "Sets": "3",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bodyweight Circuit Routine",
+      "type": "Cutting",
+      "difficulty": "Beginner",
+      "login": false,
+      "photo": "https://cdn.jefit.com/uc/file/0bfb3bd482d725be/1.jpg",
+      "description": "This is a 3-day, beginner, bodyweight circuit routine. The goal is to perform this program three times a week for one month. Minimal equipment is needed (i.e. jump rope and bench) to complete the series of exercises. Each session is designed to be finished in less than 30 minutes.\n Each training session offers supersets for a few of the exercises. This is where you do back-to-back set with minimal sets. Most of the sets are to be performed for time (i.e. 3-seconds) as interval sets.",
+      "completed": false,
+      "progress": [],
+      "workouts": [
+        {
+          "Workout 1": [
+            {
+              "Name": "Jump Rope",
+              "Muscle": "Cardio",
+              "Timer": "3min",
+              "Reps": "-",
+              "Sets": "-",
+              "completed": false
+            },
+            {
+              "Name": "Split Jump",
+              "Muscle": "Upper Legs",
+              "Timer": "30secs",
+              "Reps": "-",
+              "Sets": "1",
+              "completed": false
+            },
+            {
+              "Name": "Barbell Inverted Row",
+              "Muscle": "Back",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Push-Up",
+              "Muscle": "Chest",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Plank",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "2",
+              "completed": false
+            },
+            {
+              "Name": "Mountain Climber",
+              "Muscle": "Upper Legs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "1",
+              "completed": false
+            }
+          ],
+          "Workout 2": [
+            {
+              "Name": "Reverse Crunch",
+              "Muscle": "Abs",
+              "Timer": "30secs",
+              "Reps": "-",
+              "Sets": "1",
+              "completed": false
+            },
+            {
+              "Name": "Rocket Jump",
+              "Muscle": "Upper Legs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "1",
+              "completed": false
+            },
+            {
+              "Name": "Cobra",
+              "Muscle": "Upper Legs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "2",
+              "completed": false
+            },
+            {
+              "Name": "Barbell Inverted Row",
+              "Muscle": "Back",
+              "Timer": "60secs",
+              "Reps": "6",
+              "Sets": "2",
+              "completed": false
+            },
+            {
+              "Name": "Jump Squat",
+              "Muscle": "Upper Legs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "1",
+              "completed": false
+            },
+            {
+              "Name": "Seated Leg Tuck",
+              "Muscle": "Abs",
+              "Timer": "60secs",
+              "Reps": "-",
+              "Sets": "1",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Push/Pull Plan: Chest & Shoulder",
+      "type": "Bulking",
+      "difficulty": "Beginner",
+      "login": false,
+      "photo": "https://cdn.jefit.com/uc/file/9f37b4ca6839b8a7/1.jpg",
+      "description": "This is a beginner strength training plan designed to work the chest and shoulders twice weekly. \n Day 1: Heavier volume day, 4 sets each, workout time is about an hour. \n Day 2: Lighter volume (sets x reps) training day, workout time is about an hour. Different exercises in this session compared to day one.",
+      "completed": false,
+      "progress": [],
+      "workouts": [
+        {
+          "Core Workout 1": [
+            {
+              "Name": "Barbell Bench Press",
+              "Muscle": "Chest",
+              "Timer": "120secs",
+              "Reps": "8",
+              "Sets": "4",
+              "completed": false
+            },
+            {
+              "Name": "Barbell Incline Bench Press",
+              "Muscle": "Chest",
+              "Timer": "90secs",
+              "Reps": "8",
+              "Sets": "4",
+              "completed": false
+            },
+            {
+              "Name": "Machine Fly",
+              "Muscle": "Chest",
+              "Timer": "75secs",
+              "Reps": "8",
+              "Sets": "4",
+              "completed": false
+            },
+            {
+              "Name": "Barbell Shoulder Press",
+              "Muscle": "Shoulders",
+              "Timer": "120secs",
+              "Reps": "8, 8, 6, 6",
+              "Sets": "4",
+              "completed": false
+            },
+            {
+              "Name": "Barbell Shrug",
+              "Muscle": "Shoulders",
+              "Timer": "75secs",
+              "Reps": "10, 8, 8, 4",
+              "Sets": "4",
+              "completed": false
+            }
+          ],
+          "Core Workout 2": [
+            {
+              "Name": "Dumbbell Bench Press",
+              "Muscle": "Chest",
+              "Timer": "120secs",
+              "Reps": "8",
+              "Sets": "4",
+              "completed": false
+            },
+            {
+              "Name": "Dumbbell Incline Bench Press",
+              "Muscle": "Chest",
+              "Timer": "90secs",
+              "Reps": "8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Dumbbell Fly",
+              "Muscle": "Chest",
+              "Timer": "75secs",
+              "Reps": "8",
+              "Sets": "3",
+              "completed": false
+            },
+            {
+              "Name": "Dumbbell Shoulder Press",
+              "Muscle": "Shoulders",
+              "Timer": "90secs",
+              "Reps": "8",
+              "Sets": "4",
+              "completed": false
+            },
+            {
+              "Name": "Dumbbell Shoulder Shrug",
+              "Muscle": "Shoulders",
+              "Timer": "75secs",
+              "Reps": "8",
+              "Sets": "3",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "customworkout": [],
+  "users": [{}],
+  "backgrounds": [
+    {
+      "id": 1,
+      "img": "https://images.pexels.com/photos/897064/pexels-photo-897064.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 2,
+      "img": "https://images.pexels.com/photos/949129/pexels-photo-949129.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 3,
+      "img": "https://images.pexels.com/photos/209969/pexels-photo-209969.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 4,
+      "img": "https://images.pexels.com/photos/209983/pexels-photo-209983.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 5,
+      "img": "https://images.pexels.com/photos/791764/pexels-photo-791764.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
   ]
 }
