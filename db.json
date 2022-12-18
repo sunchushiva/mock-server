@@ -1476,5 +1476,82 @@
       "id": 5,
       "img": "https://images.pexels.com/photos/791764/pexels-photo-791764.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
+  ],
+  "sample": [
+    {
+      "id": 1,
+      "name": "Assisted Chest Stretch",
+      "type": "Stretching",
+      "muscle": "Chest",
+      "mechanics": "Isolation",
+      "equipment": "Body Only",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b3.jpg",
+      "video": "http://player.vimeo.com/external/160305239.sd.mp4?s=e0dfec87ef30cf5bad1e3f4bd71db89ca2be9911&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) In this stretch you will need a partner behind you to assist. \n 2.) Start by sitting upright on the floor with your partner behind you, placing your hands behind your head and legs extended out in front of you with a slight knee bend. \n 3.) Have your partner hold your elbows, then try and pull your elbows from behind your head for about 15 to 30 seconds then release. \n 4.) Then afterward have your partner pull back on your elbows again but easily this time to help stretch out the chest muscles.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 21,
+      "name": "Barbell Behind the Back Shrug",
+      "type": "Strength",
+      "muscle": "Back",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b1.jpg",
+      "video": "http://player.vimeo.com/external/160281087.hd.mp4?s=c7b6820b57ca15bc9cf4c797e7603abd17a623ec&profile_id=113&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) To begin this exercise; start by placing a barbell behind your back resting it slightly against your quads with your palms facing backward. \n 2.) With your shoulders, raise the barbell so that it reaches your glutes and hold onto the position for a few seconds. \n 3.) Return to the starting position. \n 4.) Repeat this exercise for as many repetitions as needed.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 16,
+      "name": "Barbell Seated Twist",
+      "type": "Strength",
+      "muscle": "Abs",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b0.jpg",
+      "video": "http://player.vimeo.com/external/160280863.sd.mp4?s=b37615c5037c536fb1b203c0c525b72fe2f1709d&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) To begin this exercise; start with your body sitting at the end of a flat bench with a barbell placed on the back of your shoulders behind your neck. \n 2.) Keep your feet and your head still; twist your torso from side to side squeezing your abs tightly holding for a few seconds when you reach each side. \n 3.) Release and exhale as you return to the starting position. \n 4.) Repeat this exercise for as many repetitions as needed.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 36,
+      "name": "Barbell Seated High Front Raise",
+      "type": "Strength",
+      "muscle": "Shoulders",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Intermediate",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b6.jpg",
+      "video": "http://player.vimeo.com/external/160307094.sd.mp4?s=5534ecdb6bea193a1d675434f20da80ba403fd69&profile_id=165&oauth2_token_id=435967617",
+      "instructions": "Steps : \n 1.) Start by sitting up straight at the end of a flat bench with your feet on the floor in front of you holding a weighted barbell on your knees with an overhand grip. \n 2.) While keeping your arms straight, slowly elevate the barbell up and over your head, squeezing your shoulders on the way up, and hold for a count. \n 3.) Return to the starting position. \n 4.) Repeat for as many reps and sets as desired.",
+      "completed": false,
+      "progress": []
+    },
+    {
+      "id": 45,
+      "name": "Barbell Preacher Curl",
+      "type": "Strength",
+      "muscle": "Biceps",
+      "mechanics": "Isolation",
+      "equipment": "Barbell",
+      "difficulty": "Beginner",
+      "login": false,
+      "body": "https://www.jefit.com/images/exercises/b2.jpg",
+      "video": "http://player.vimeo.com/external/160273684.sd.mp4?s=89a50f44a7deb331655e6fdb8ccf0e9e56053f57&profile_id=164&oauth2_token_id=435967617",
+      "instructions": "The preacher curl exercise uses a special bench to help support the triceps and isolate the biceps to build bigger arms. \n Steps : \n 1.) Start by adjusting the seat of a preacher bench so that your arms are level with the top of the bench. \n 2.) Grab onto a bicep curl bar with an underhand (palms up) grip, keeping your arms shoulder-width apart, resting them against the bench, and extending them fully. \n 3.) While keeping your arms on the bench, slowly curl the bar up towards your head, isolating the bicep and squeezing the muscles. \n 4.) Hold for a count and then return to the starting position. \n Tips : \n 1.) slowly perform this exercise to attain the best results.",
+      "completed": false,
+      "progress": []
+    }
   ]
 }
