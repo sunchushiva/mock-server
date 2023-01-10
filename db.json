@@ -762,94 +762,92 @@
       "description": "This 2-day core program was developed from 2019 research published in the Journal of Sports Science & Medicine. The research looked at the efficacy of foam rolling and a core strengthening program on different athletic and health outcomes. \n The results from the original program, based on 2 weekly sessions for 8-weeks, concluded the following: \n 1. Eight weeks of core-stability training two times per week improved dorsal trunk strength with no changes in a foam rolling group or the control. \n 2. Hamstring flexibility was improved both by an eight-week core-strength and foam rolling training intervention. \n In this Jefit core program, the first four weeks use less intensity and overall time and include 5 core exercises. In weeks 5-8, the focus is on similar core movements with longer old times, slight progressions, and about a 2-minute longer workout session.\n Jefit combined the program into one four-week program to make things easier.",
       "completed": false,
       "progress": [],
-      "workouts": [
-        {
-          "Core Workout 1": [
-            {
-              "Name": "Plank",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Bridge",
-              "Muscle": "Glutes",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Side Bridge",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Bird Dog",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Lower Back Curl",
-              "Muscle": "Back",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            }
-          ],
-          "Core Workout 2": [
-            {
-              "Name": "Plank with Side Kick",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Alternate Leg Bridge",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Side Bridge",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Bird Dog",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Superman",
-              "Muscle": "Back",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            }
-          ]
-        }
-      ]
+      "workouts": {
+        "Core Workout 1": [
+          {
+            "Name": "Plank",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Bridge",
+            "Muscle": "Glutes",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Side Bridge",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Bird Dog",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Lower Back Curl",
+            "Muscle": "Back",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          }
+        ],
+        "Core Workout 2": [
+          {
+            "Name": "Plank with Side Kick",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Alternate Leg Bridge",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Side Bridge",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Bird Dog",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Superman",
+            "Muscle": "Back",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          }
+        ]
+      }
     },
     {
       "id": 2,
@@ -861,94 +859,92 @@
       "description": "This is a 6-week shoulder routine for those who want to focus on building stronger and bigger shoulders. \n For many people who lift, there is a desire to have wide and thick shoulders to carry and keep your frame in proportion. \n In this routine, you will focus on exercises that will target the small muscles of the shoulders and stimulate the separation of the fibers to create that coconut look that many desire to have. \n For the first 3 weeks of the routine, you will work with dumbbells to initiate the separation of the shoulder muscles and work the smaller muscle fibers for growth. \n Then going into weeks 4 - 6, you will use barbell exercises to isolate the shoulder muscles and focus on growth and strength. \n When you start the first set of each exercise you will perform the amount of weight that you can do 12 repetitions for, followed by increasing the amount of weight and lowering the reps until you have completed all of the sets. /n *** Notes: Also working out your shoulders/delts will slim out your waistline. \n For the first 3 weeks, you can also substitute in cable exercises instead of dumbbells to target muscle separation.",
       "completed": false,
       "progress": [],
-      "workouts": [
-        {
-          "Weeks 1 - 3": [
-            {
-              "Name": "Dumbbell Shoulder Shrug",
-              "Muscle": "Shoulders",
-              "Timer": "60secs",
-              "Reps": "12, 10, 8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Dumbbell Upright Row",
-              "Muscle": "Shoulders",
-              "Timer": "60secs",
-              "Reps": "12, 10, 8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Dumbbell Shoulder Press",
-              "Muscle": "Shoulders",
-              "Timer": "60secs",
-              "Reps": "12, 10, 8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Seated Side Lateral Raise",
-              "Muscle": "Shoulders",
-              "Timer": "60secs",
-              "Reps": "12, 10, 8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Seated Dumbbell Front Raise",
-              "Muscle": "Shoulders",
-              "Timer": "60secs",
-              "Reps": "12, 10, 8",
-              "Sets": "3",
-              "completed": false
-            }
-          ],
-          "Weeks 4 - 6": [
-            {
-              "Name": "Barbell Shrug",
-              "Muscle": "Shoulders",
-              "Timer": "90secs",
-              "Reps": "12, 10, 8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Barbell Up Right Row",
-              "Muscle": "Shoulders",
-              "Timer": "90secs",
-              "Reps": "12, 10, 8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Barbell Shoulder Press",
-              "Muscle": "Shoulders",
-              "Timer": "90secs",
-              "Reps": "12, 10, 8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Dumbbell Lateral Raise",
-              "Muscle": "Shoulders",
-              "Timer": "90secs",
-              "Reps": "12, 10, 8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Dumbbell Front Raise",
-              "Muscle": "Shoulders",
-              "Timer": "90secs",
-              "Reps": "12, 10, 8",
-              "Sets": "3",
-              "completed": false
-            }
-          ]
-        }
-      ]
+      "workouts": {
+        "Weeks 1 - 3": [
+          {
+            "Name": "Dumbbell Shoulder Shrug",
+            "Muscle": "Shoulders",
+            "Timer": "60secs",
+            "Reps": "12, 10, 8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Dumbbell Upright Row",
+            "Muscle": "Shoulders",
+            "Timer": "60secs",
+            "Reps": "12, 10, 8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Dumbbell Shoulder Press",
+            "Muscle": "Shoulders",
+            "Timer": "60secs",
+            "Reps": "12, 10, 8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Seated Side Lateral Raise",
+            "Muscle": "Shoulders",
+            "Timer": "60secs",
+            "Reps": "12, 10, 8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Seated Dumbbell Front Raise",
+            "Muscle": "Shoulders",
+            "Timer": "60secs",
+            "Reps": "12, 10, 8",
+            "Sets": "3",
+            "completed": false
+          }
+        ],
+        "Weeks 4 - 6": [
+          {
+            "Name": "Barbell Shrug",
+            "Muscle": "Shoulders",
+            "Timer": "90secs",
+            "Reps": "12, 10, 8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Barbell Up Right Row",
+            "Muscle": "Shoulders",
+            "Timer": "90secs",
+            "Reps": "12, 10, 8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Barbell Shoulder Press",
+            "Muscle": "Shoulders",
+            "Timer": "90secs",
+            "Reps": "12, 10, 8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Dumbbell Lateral Raise",
+            "Muscle": "Shoulders",
+            "Timer": "90secs",
+            "Reps": "12, 10, 8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Dumbbell Front Raise",
+            "Muscle": "Shoulders",
+            "Timer": "90secs",
+            "Reps": "12, 10, 8",
+            "Sets": "3",
+            "completed": false
+          }
+        ]
+      }
     },
     {
       "id": 3,
@@ -960,110 +956,108 @@
       "description": "This is a 2-day, beginner, bodyweight strength program for the legs. Each day offers six unique bodyweight exercises. No weights are needed. Start and end your week with this program. Add a few sessions of bodyweight upper body exercises on Tue/Thur for a complete full body plan. \n Day 1: Perform 6 bodyweight exercises. The workout time is about 35 minutes. \n Day 2: Complete another 6 bodyweight exercises for session 2. Workout time is also about 35 minutes. \n *Note: The first exercise in each of these days should be performed for 30 seconds each (not reps.) so have your interval timer on. The rest of the sets are repetition based.",
       "completed": false,
       "progress": [],
-      "workouts": [
-        {
-          "Workout 1": [
-            {
-              "Name": "Single Leg Glute Bridge",
-              "Muscle": "Abs",
-              "Timer": "30secs",
-              "Reps": "-",
-              "Sets": "2",
-              "completed": false
-            },
-            {
-              "Name": "Prisoner Squat",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Mountain Climber",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "15",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Bodyweight Rear Lunge",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Jump Squat",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "6",
-              "Sets": "2",
-              "completed": false
-            },
-            {
-              "Name": "Single Leg Calf Raise",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            }
-          ],
-          "Workout 2": [
-            {
-              "Name": "Bridge",
-              "Muscle": "Glutes",
-              "Timer": "30secs",
-              "Reps": "-",
-              "Sets": "2",
-              "completed": false
-            },
-            {
-              "Name": "Bodyweight Squat",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Reverse Hyper on Flat Bench",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Side Step-Up",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "6",
-              "Sets": "2",
-              "completed": false
-            },
-            {
-              "Name": "Split Jump",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "6",
-              "Sets": "2",
-              "completed": false
-            },
-            {
-              "Name": "Bodyweight Standing Calf Raise",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            }
-          ]
-        }
-      ]
+      "workouts": {
+        "Workout 1": [
+          {
+            "Name": "Single Leg Glute Bridge",
+            "Muscle": "Abs",
+            "Timer": "30secs",
+            "Reps": "-",
+            "Sets": "2",
+            "completed": false
+          },
+          {
+            "Name": "Prisoner Squat",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Mountain Climber",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "15",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Bodyweight Rear Lunge",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Jump Squat",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "6",
+            "Sets": "2",
+            "completed": false
+          },
+          {
+            "Name": "Single Leg Calf Raise",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          }
+        ],
+        "Workout 2": [
+          {
+            "Name": "Bridge",
+            "Muscle": "Glutes",
+            "Timer": "30secs",
+            "Reps": "-",
+            "Sets": "2",
+            "completed": false
+          },
+          {
+            "Name": "Bodyweight Squat",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Reverse Hyper on Flat Bench",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Side Step-Up",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "6",
+            "Sets": "2",
+            "completed": false
+          },
+          {
+            "Name": "Split Jump",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "6",
+            "Sets": "2",
+            "completed": false
+          },
+          {
+            "Name": "Bodyweight Standing Calf Raise",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          }
+        ]
+      }
     },
     {
       "id": 4,
@@ -1075,168 +1069,166 @@
       "description": "This is an advanced cutting routine designed to help individuals increase their heart rate, workout intensity, and metabolic rate to stimulate fat loss and getting lean. \n In this routine, you will be working out 6 to 7 days a week for optimal fat loss and muscle growth. \n This routine will be performed for 3 months, as this is the optimal time to confuse your body into this new exercise program and trigger fat loss/muscle growth and strength. \n There is a mix of bodyweight, dumbbell, weighted, and core exercises used in this routine to work and build the muscles.\n Each day of the routine will focus on a major body part, a mixture of various core exercises and cardio to help burn calories and excess fat storage in the body. \n You may institute a rest day into your routine schedule if you feel that training 7 days a week is too excessive. \n Cardio at the beginning of the workout day should be performed as a warm-up only to get your heart rate up and loosen the muscles before the workout at hand. The final cardio of the day is used to burn even more calories for optimal fat loss.",
       "completed": false,
       "progress": [],
-      "workouts": [
-        {
-          "Legs and Abs": [
-            {
-              "Name": "Elliptical Training",
-              "Muscle": "Cardio",
-              "Timer": "15min",
-              "Reps": "-",
-              "Sets": "-",
-              "completed": false
-            },
-            {
-              "Name": "Bodyweight Lunge",
-              "Muscle": "Upper legs",
-              "Timer": "60secs",
-              "Reps": "20",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Rear Bodyweight Lunge",
-              "Muscle": "Upper Legs",
-              "Timer": "60secs",
-              "Reps": "20",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Freehand Jump Squat",
-              "Muscle": "Upper Legs",
-              "Timer": "60secs",
-              "Reps": "20",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Bodyweight Standing Calf Raise",
-              "Muscle": "Lower Legs",
-              "Timer": "60secs",
-              "Reps": "20",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Prisoner Squat",
-              "Muscle": "Upper Legs",
-              "Timer": "60secs",
-              "Reps": "20",
-              "Sets": "3",
-              "completed": false
-            }
-          ],
-          "Chest and Abs": [
-            {
-              "Name": "Treadmill Running",
-              "Muscle": "Cardio",
-              "Timer": "15min",
-              "Reps": "-",
-              "Sets": "-",
-              "completed": false
-            },
-            {
-              "Name": "Dumbbell Bench Press",
-              "Muscle": "Chest",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Dumbbell Incline Bench Press",
-              "Muscle": "Chest",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Dumbbell Fly",
-              "Muscle": "Chest",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Decline Bench Leg Raise",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "20",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Decline Weighted Twist",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "20",
-              "Sets": "3",
-              "completed": false
-            }
-          ],
-          "Arms and Back": [
-            {
-              "Name": "Rowing",
-              "Muscle": "Cardio",
-              "Timer": "15min",
-              "Reps": "-",
-              "Sets": "-",
-              "completed": false
-            },
-            {
-              "Name": "Wide Grip Lat Pulldown",
-              "Muscle": "Back",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Cable Seated Row",
-              "Muscle": "Back",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Pull Ups",
-              "Muscle": "Back",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Close Grip Preacher Curl",
-              "Muscle": "Biceps",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Chest Dip",
-              "Muscle": "Triceps",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Barbell Curl",
-              "Muscle": "Biceps",
-              "Timer": "60secs",
-              "Reps": "12",
-              "Sets": "3",
-              "completed": false
-            }
-          ]
-        }
-      ]
+      "workouts": {
+        "Legs and Abs": [
+          {
+            "Name": "Elliptical Training",
+            "Muscle": "Cardio",
+            "Timer": "15min",
+            "Reps": "-",
+            "Sets": "-",
+            "completed": false
+          },
+          {
+            "Name": "Bodyweight Lunge",
+            "Muscle": "Upper legs",
+            "Timer": "60secs",
+            "Reps": "20",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Rear Bodyweight Lunge",
+            "Muscle": "Upper Legs",
+            "Timer": "60secs",
+            "Reps": "20",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Freehand Jump Squat",
+            "Muscle": "Upper Legs",
+            "Timer": "60secs",
+            "Reps": "20",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Bodyweight Standing Calf Raise",
+            "Muscle": "Lower Legs",
+            "Timer": "60secs",
+            "Reps": "20",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Prisoner Squat",
+            "Muscle": "Upper Legs",
+            "Timer": "60secs",
+            "Reps": "20",
+            "Sets": "3",
+            "completed": false
+          }
+        ],
+        "Chest and Abs": [
+          {
+            "Name": "Treadmill Running",
+            "Muscle": "Cardio",
+            "Timer": "15min",
+            "Reps": "-",
+            "Sets": "-",
+            "completed": false
+          },
+          {
+            "Name": "Dumbbell Bench Press",
+            "Muscle": "Chest",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Dumbbell Incline Bench Press",
+            "Muscle": "Chest",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Dumbbell Fly",
+            "Muscle": "Chest",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Decline Bench Leg Raise",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "20",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Decline Weighted Twist",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "20",
+            "Sets": "3",
+            "completed": false
+          }
+        ],
+        "Arms and Back": [
+          {
+            "Name": "Rowing",
+            "Muscle": "Cardio",
+            "Timer": "15min",
+            "Reps": "-",
+            "Sets": "-",
+            "completed": false
+          },
+          {
+            "Name": "Wide Grip Lat Pulldown",
+            "Muscle": "Back",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Cable Seated Row",
+            "Muscle": "Back",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Pull Ups",
+            "Muscle": "Back",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Close Grip Preacher Curl",
+            "Muscle": "Biceps",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Chest Dip",
+            "Muscle": "Triceps",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Barbell Curl",
+            "Muscle": "Biceps",
+            "Timer": "60secs",
+            "Reps": "12",
+            "Sets": "3",
+            "completed": false
+          }
+        ]
+      }
     },
     {
       "id": 5,
@@ -1248,110 +1240,108 @@
       "description": "This is a 3-day, beginner, bodyweight circuit routine. The goal is to perform this program three times a week for one month. Minimal equipment is needed (i.e. jump rope and bench) to complete the series of exercises. Each session is designed to be finished in less than 30 minutes.\n Each training session offers supersets for a few of the exercises. This is where you do back-to-back set with minimal sets. Most of the sets are to be performed for time (i.e. 3-seconds) as interval sets.",
       "completed": false,
       "progress": [],
-      "workouts": [
-        {
-          "Workout 1": [
-            {
-              "Name": "Jump Rope",
-              "Muscle": "Cardio",
-              "Timer": "3min",
-              "Reps": "-",
-              "Sets": "-",
-              "completed": false
-            },
-            {
-              "Name": "Split Jump",
-              "Muscle": "Upper Legs",
-              "Timer": "30secs",
-              "Reps": "-",
-              "Sets": "1",
-              "completed": false
-            },
-            {
-              "Name": "Barbell Inverted Row",
-              "Muscle": "Back",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Push-Up",
-              "Muscle": "Chest",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Plank",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "2",
-              "completed": false
-            },
-            {
-              "Name": "Mountain Climber",
-              "Muscle": "Upper Legs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "1",
-              "completed": false
-            }
-          ],
-          "Workout 2": [
-            {
-              "Name": "Reverse Crunch",
-              "Muscle": "Abs",
-              "Timer": "30secs",
-              "Reps": "-",
-              "Sets": "1",
-              "completed": false
-            },
-            {
-              "Name": "Rocket Jump",
-              "Muscle": "Upper Legs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "1",
-              "completed": false
-            },
-            {
-              "Name": "Cobra",
-              "Muscle": "Upper Legs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "2",
-              "completed": false
-            },
-            {
-              "Name": "Barbell Inverted Row",
-              "Muscle": "Back",
-              "Timer": "60secs",
-              "Reps": "6",
-              "Sets": "2",
-              "completed": false
-            },
-            {
-              "Name": "Jump Squat",
-              "Muscle": "Upper Legs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "1",
-              "completed": false
-            },
-            {
-              "Name": "Seated Leg Tuck",
-              "Muscle": "Abs",
-              "Timer": "60secs",
-              "Reps": "-",
-              "Sets": "1",
-              "completed": false
-            }
-          ]
-        }
-      ]
+      "workouts": {
+        "Workout 1": [
+          {
+            "Name": "Jump Rope",
+            "Muscle": "Cardio",
+            "Timer": "3min",
+            "Reps": "-",
+            "Sets": "-",
+            "completed": false
+          },
+          {
+            "Name": "Split Jump",
+            "Muscle": "Upper Legs",
+            "Timer": "30secs",
+            "Reps": "-",
+            "Sets": "1",
+            "completed": false
+          },
+          {
+            "Name": "Barbell Inverted Row",
+            "Muscle": "Back",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Push-Up",
+            "Muscle": "Chest",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Plank",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "2",
+            "completed": false
+          },
+          {
+            "Name": "Mountain Climber",
+            "Muscle": "Upper Legs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "1",
+            "completed": false
+          }
+        ],
+        "Workout 2": [
+          {
+            "Name": "Reverse Crunch",
+            "Muscle": "Abs",
+            "Timer": "30secs",
+            "Reps": "-",
+            "Sets": "1",
+            "completed": false
+          },
+          {
+            "Name": "Rocket Jump",
+            "Muscle": "Upper Legs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "1",
+            "completed": false
+          },
+          {
+            "Name": "Cobra",
+            "Muscle": "Upper Legs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "2",
+            "completed": false
+          },
+          {
+            "Name": "Barbell Inverted Row",
+            "Muscle": "Back",
+            "Timer": "60secs",
+            "Reps": "6",
+            "Sets": "2",
+            "completed": false
+          },
+          {
+            "Name": "Jump Squat",
+            "Muscle": "Upper Legs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "1",
+            "completed": false
+          },
+          {
+            "Name": "Seated Leg Tuck",
+            "Muscle": "Abs",
+            "Timer": "60secs",
+            "Reps": "-",
+            "Sets": "1",
+            "completed": false
+          }
+        ]
+      }
     },
     {
       "id": 6,
@@ -1363,94 +1353,92 @@
       "description": "This is a beginner strength training plan designed to work the chest and shoulders twice weekly. \n Day 1: Heavier volume day, 4 sets each, workout time is about an hour. \n Day 2: Lighter volume (sets x reps) training day, workout time is about an hour. Different exercises in this session compared to day one.",
       "completed": false,
       "progress": [],
-      "workouts": [
-        {
-          "Core Workout 1": [
-            {
-              "Name": "Barbell Bench Press",
-              "Muscle": "Chest",
-              "Timer": "120secs",
-              "Reps": "8",
-              "Sets": "4",
-              "completed": false
-            },
-            {
-              "Name": "Barbell Incline Bench Press",
-              "Muscle": "Chest",
-              "Timer": "90secs",
-              "Reps": "8",
-              "Sets": "4",
-              "completed": false
-            },
-            {
-              "Name": "Machine Fly",
-              "Muscle": "Chest",
-              "Timer": "75secs",
-              "Reps": "8",
-              "Sets": "4",
-              "completed": false
-            },
-            {
-              "Name": "Barbell Shoulder Press",
-              "Muscle": "Shoulders",
-              "Timer": "120secs",
-              "Reps": "8, 8, 6, 6",
-              "Sets": "4",
-              "completed": false
-            },
-            {
-              "Name": "Barbell Shrug",
-              "Muscle": "Shoulders",
-              "Timer": "75secs",
-              "Reps": "10, 8, 8, 4",
-              "Sets": "4",
-              "completed": false
-            }
-          ],
-          "Core Workout 2": [
-            {
-              "Name": "Dumbbell Bench Press",
-              "Muscle": "Chest",
-              "Timer": "120secs",
-              "Reps": "8",
-              "Sets": "4",
-              "completed": false
-            },
-            {
-              "Name": "Dumbbell Incline Bench Press",
-              "Muscle": "Chest",
-              "Timer": "90secs",
-              "Reps": "8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Dumbbell Fly",
-              "Muscle": "Chest",
-              "Timer": "75secs",
-              "Reps": "8",
-              "Sets": "3",
-              "completed": false
-            },
-            {
-              "Name": "Dumbbell Shoulder Press",
-              "Muscle": "Shoulders",
-              "Timer": "90secs",
-              "Reps": "8",
-              "Sets": "4",
-              "completed": false
-            },
-            {
-              "Name": "Dumbbell Shoulder Shrug",
-              "Muscle": "Shoulders",
-              "Timer": "75secs",
-              "Reps": "8",
-              "Sets": "3",
-              "completed": false
-            }
-          ]
-        }
-      ]
+      "workouts": {
+        "Core Workout 1": [
+          {
+            "Name": "Barbell Bench Press",
+            "Muscle": "Chest",
+            "Timer": "120secs",
+            "Reps": "8",
+            "Sets": "4",
+            "completed": false
+          },
+          {
+            "Name": "Barbell Incline Bench Press",
+            "Muscle": "Chest",
+            "Timer": "90secs",
+            "Reps": "8",
+            "Sets": "4",
+            "completed": false
+          },
+          {
+            "Name": "Machine Fly",
+            "Muscle": "Chest",
+            "Timer": "75secs",
+            "Reps": "8",
+            "Sets": "4",
+            "completed": false
+          },
+          {
+            "Name": "Barbell Shoulder Press",
+            "Muscle": "Shoulders",
+            "Timer": "120secs",
+            "Reps": "8, 8, 6, 6",
+            "Sets": "4",
+            "completed": false
+          },
+          {
+            "Name": "Barbell Shrug",
+            "Muscle": "Shoulders",
+            "Timer": "75secs",
+            "Reps": "10, 8, 8, 4",
+            "Sets": "4",
+            "completed": false
+          }
+        ],
+        "Core Workout 2": [
+          {
+            "Name": "Dumbbell Bench Press",
+            "Muscle": "Chest",
+            "Timer": "120secs",
+            "Reps": "8",
+            "Sets": "4",
+            "completed": false
+          },
+          {
+            "Name": "Dumbbell Incline Bench Press",
+            "Muscle": "Chest",
+            "Timer": "90secs",
+            "Reps": "8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Dumbbell Fly",
+            "Muscle": "Chest",
+            "Timer": "75secs",
+            "Reps": "8",
+            "Sets": "3",
+            "completed": false
+          },
+          {
+            "Name": "Dumbbell Shoulder Press",
+            "Muscle": "Shoulders",
+            "Timer": "90secs",
+            "Reps": "8",
+            "Sets": "4",
+            "completed": false
+          },
+          {
+            "Name": "Dumbbell Shoulder Shrug",
+            "Muscle": "Shoulders",
+            "Timer": "75secs",
+            "Reps": "8",
+            "Sets": "3",
+            "completed": false
+          }
+        ]
+      }
     }
   ],
   "customworkout": [],
